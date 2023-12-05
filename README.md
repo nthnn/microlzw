@@ -1,6 +1,6 @@
 # microlzw
 
-![Arduino CI](https://github.com/nthnn/microlzw/actions/workflows/arduino_ci.yml/badge.svg) ![Arduino Lint](https://github.com/nthnn/microlzw/actions/workflows/arduino_lint.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/nthnn/microlzw/blob/main/LICENSE)
+![Arduino CI](https://github.com/nthnn/microlzw/actions/workflows/arduino_ci.yml/badge.svg) ![Arduino Lint](https://github.com/nthnn/microlzw/actions/workflows/arduino_lint.yml/badge.svg) [![PlatformIO Registry](https://badges.registry.platformio.org/packages/nthnn/library/microlzw.svg)](https://registry.platformio.org/libraries/nthnn/microlzw) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/nthnn/microlzw/blob/main/LICENSE)
 
 **microlzw** is a lightweight and embeddable Micro Lempel-Ziv-Welch (MLZW) compression library designed specifically for Arduino projects. It provides efficient string compression and decompression functionalities, catering to scenarios where memory and storage resources are limited.
 
