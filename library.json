@@ -1,0 +1,21 @@
+{
+    "name": "microlzw",
+    "version": "1.0.0",
+    "description": "Embeddable micro Lempel-Ziv-Welch compression library for strings.",
+    "keywords": "microlzw, lzw, compression, strings",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nthnn/microlzw"
+    },
+    "authors": [
+      {
+        "name": "nathannestein",
+        "email": "nathanneisip@gmail.com",
+        "url": "https://nthnn.github.io/"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/nthnn/microlzw",
+    "frameworks": "*",
+    "platforms": "*"
+}
