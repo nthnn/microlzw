@@ -1,6 +1,6 @@
 {
     "name": "microlzw",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Embeddable micro Lempel-Ziv-Welch compression library for strings.",
     "keywords": "microlzw, lzw, compression, strings",
     "repository": {
